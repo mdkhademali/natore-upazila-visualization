@@ -73,8 +73,4 @@ The following plot represents the **approximate geographic locations** of each u
 
 Both scripts are designed for easy execution on **Google Colab** or **Jupyter Notebook**.
 
----
-
-## License
-This repository is open for **academic and educational use only**.  
-© 2025 Md. Khadem Ali. All rights reserved.
+© mdkhademali
