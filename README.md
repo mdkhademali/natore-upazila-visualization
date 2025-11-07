@@ -40,17 +40,6 @@ The following plot represents the **approximate geographic locations** of each u
 
 ---
 
-## Tools and Libraries
-
-| Tool | Purpose |
-|------|----------|
-| **Python 3.x** | Data visualization and computation |
-| **Matplotlib** | 2D plotting for both statistical and spatial data |
-| **Google Colab / Jupyter Notebook** | Environment for running and experimenting with code |
-| **GitHub** | Hosting and sharing open-source code and visuals |
-
----
-
 ## Data Summary
 
 | Upazila | Latitude | Longitude |
@@ -63,6 +52,19 @@ The following plot represents the **approximate geographic locations** of each u
 | Bagatipara | 24.3500 | 88.9333 |
 
 > Coordinates are approximate centroid positions derived from official sub-district geographic data.
+
+---
+
+## Tools and Libraries
+
+| Tool | Purpose |
+|------|----------|
+| **Python 3.x** | Data visualization and computation |
+| **Matplotlib** | 2D plotting for both statistical and spatial data |
+| **Google Colab / Jupyter Notebook** | Environment for running and experimenting with code |
+| **GitHub** | Hosting and sharing open-source code and visuals |
+
+---
 
 ---
 
