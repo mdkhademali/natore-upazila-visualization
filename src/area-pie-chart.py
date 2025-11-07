@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Data
-upazilas = ['Natore Sadar', 'Singra', 'Gurudaspur', 'Lalpur', 'Baraigram', 'Bagatipara']
+upazilas = ['Natore Sadar', 'Singra', 'Gurudaspur', 'Lalpur', 'Baraigram', 'Bagati Para']
 areas = [401.29, 531, 199.40, 327.92, 299.6, 139.86]
 
 # Colors
@@ -11,7 +11,7 @@ upazila_colors = {
     'Baraigram': '#ffff00',
     'Gurudaspur': '#ffaa00',
     'Lalpur': '#00c5ff',
-    'Bagatipara': '#bfd999',
+    'Bagati Para': '#bfd999',
     'Natore Sadar': '#b53535'
 }
 colors = [upazila_colors[u] for u in upazilas]

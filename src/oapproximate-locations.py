@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 # Upazila data
-upazilas = ['Natore Sadar', 'Singra', 'Gurudaspur', 'Lalpur', 'Baraigram', 'Bagatipara']
+upazilas = ['Natore Sadar', 'Singra', 'Gurudaspur', 'Lalpur', 'Baraigram', 'Bagati Para']
 latitudes = [24.4167, 24.5, 24.3681, 24.185, 24.3075, 24.35]
 longitudes = [88.9256, 89.1333, 89.2475, 88.9708, 89.1667, 88.9333]
 upazila_colors = ['#b53535', '#55ff00', '#ffaa00', '#00c5ff', '#ffff00', '#bfd999']
