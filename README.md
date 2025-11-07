@@ -62,7 +62,6 @@ The following plot represents the **approximate geographic locations** of each u
 | **Python 3.x** | Data visualization and computation |
 | **Matplotlib** | 2D plotting for both statistical and spatial data |
 | **Google Colab / Jupyter Notebook** | Environment for running and experimenting with code |
-| **GitHub** | Hosting and sharing open-source code and visuals |
 
 ---
 
