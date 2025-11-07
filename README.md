@@ -66,8 +66,6 @@ The following plot represents the **approximate geographic locations** of each u
 
 ---
 
----
-
 ## Code Overview
 
 1. **`area-pie-chart.py`** – Visualizes each upazila’s area as a 3D bar/pie chart.  
