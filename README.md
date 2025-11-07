@@ -15,7 +15,7 @@ It combines spatial and non-spatial data visualization for a comprehensive under
 - Gurudaspur  
 - Lalpur  
 - Baraigram  
-- Bagatipara  
+- Bagati Para  
 
 ### Study Area Map
 Approximate map of Natore’s upazilas, based on their centroid coordinates.
