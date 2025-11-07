@@ -16,9 +16,7 @@ upazila_colors = {
 }
 colors = [upazila_colors[u] for u in upazilas]
 
-# ==============================
 # Pie Chart
-# ==============================
 plt.figure(figsize=(10,8))
 
 # Pie with percentages inside
